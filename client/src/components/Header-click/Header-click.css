@@ -1,0 +1,27 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  text-decoration: underline;
+  color: #2A77AE;
+  margin-bottom: 50px;
+  float: right;
+}
+
+p {
+  float: left;
+}
+
+.score{
+  float: right;
+  margin-right: 10px;
+}
+.navbar {
+  margin-top: 0px;
+  margin-bottom:20px;
+  background-color: azure;
+  position:absolute;
+  top: 0px;
+  width:100%; 
+  height:15%;
+}
